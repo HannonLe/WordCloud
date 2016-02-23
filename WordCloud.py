@@ -110,6 +110,7 @@ class WordCloud(object):
 def main():
     w = WordCloud(800, 600, background=(244, 244, 244))
     w.draw('Data\\The Declaration of Independence.txt', 'Fonts\\FTLTLT.TTF', max_size=120, min_size=15, max_words=120, margin=2)
+    # w.img.save('Images\\The Declaration of Independence.png')
 
 main()
 
