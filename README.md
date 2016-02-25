@@ -3,4 +3,4 @@ A tiny word cloud generating program. Low efficiency, bugs and errors. To be upd
 
 ![Word cloud Red](Images/WordCloud_Red.png)
 ![Word cloud Blue](Images/WordCloud_Blue.png)
-![Word Cloud Colored](Images/WThe Declaration of Independence.png)
+![Word Cloud Colored](Images/The Declaration of Independence.png)
